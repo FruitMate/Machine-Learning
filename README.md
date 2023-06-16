@@ -16,7 +16,6 @@ The project plan file can be accessed at the following link: https://drive.googl
 3. [IDE Used](#ide-used)
 4. [Kaggle Link](#kaggle-link)
 5. [Output Convert](#output-convert)
-6. [API Endpoints](#api-enspoints)
 
 ## Team Member
 
