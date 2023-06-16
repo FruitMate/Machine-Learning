@@ -53,5 +53,7 @@ You can cath our dataset on kaggle.com using this link below:
 https://www.kaggle.com/datasets/riescoalieffe/fruitmate
 
 ## Output Convert
+<h1 align="center">
+  <img align="center" src="assets/tflite_logo.png"  width="500"></img>
 
 We decided to convert the model into .TFLITE format. This decision was driven by the benefit of it, TFLITE format provide us the minimum power consumption, data privacy, connectivity, size, and model latency.
